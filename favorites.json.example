@@ -1,0 +1,39 @@
+{
+  "snaps": [
+    {
+      "id": "uuid-from-your-database-here",
+      "title": "React Custom Hook for API Calls",
+      "description": "A clean and reusable pattern for handling async data fetching with loading and error states",
+      "language": "javascript",
+      "tags": ["react", "hooks", "async", "api"]
+    },
+    {
+      "id": "uuid-from-your-database-here",
+      "title": "Rust Error Handling Pattern",
+      "description": "Idiomatic error handling using Result types and the ? operator",
+      "language": "rust",
+      "tags": ["rust", "error-handling", "best-practices"]
+    },
+    {
+      "id": "uuid-from-your-database-here",
+      "title": "Python Decorator for Timing",
+      "description": "A simple decorator to measure function execution time",
+      "language": "python",
+      "tags": ["python", "decorators", "performance"]
+    },
+    {
+      "id": "uuid-from-your-database-here",
+      "title": "TypeScript Generic Utility",
+      "description": "Advanced TypeScript generics for type-safe data transformation",
+      "language": "typescript",
+      "tags": ["typescript", "generics", "types"]
+    },
+    {
+      "id": "uuid-from-your-database-here",
+      "title": "Go Concurrency Pattern",
+      "description": "Worker pool pattern for concurrent task processing",
+      "language": "go",
+      "tags": ["go", "concurrency", "goroutines"]
+    }
+  ]
+}

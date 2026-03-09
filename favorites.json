@@ -1,0 +1,32 @@
+{
+  "last_updated": "2026-03-09T00:00:00Z",
+  "staff_picks": [
+    {
+      "id": "example-1",
+      "title": "Beautiful React Custom Hook",
+      "description": "An elegant implementation of a custom React hook for handling async data fetching with loading states and error handling. Features TypeScript for type safety and clean code structure.",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=600&fit=crop",
+      "snap_url": "/snap/example-1",
+      "author": "DevSnaps Team",
+      "featured_date": "2026-03-08T00:00:00Z"
+    },
+    {
+      "id": "example-2",
+      "title": "Stunning Terminal Setup with Starship",
+      "description": "A meticulously crafted terminal theme using Starship prompt with custom configurations. Features a minimalist design with perfect color harmony and practical git integration.",
+      "image_url": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=800&h=600&fit=crop",
+      "snap_url": "/snap/example-2",
+      "author": "DevSnaps Team",
+      "featured_date": "2026-03-07T00:00:00Z"
+    },
+    {
+      "id": "example-3",
+      "title": "Python Data Pipeline Masterpiece",
+      "description": "A production-ready Python data pipeline showcasing clean architecture, proper error handling, and efficient data transformations. Perfect example of Pythonic code style.",
+      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=600&fit=crop",
+      "snap_url": "/snap/example-3",
+      "author": "DevSnaps Team",
+      "featured_date": "2026-03-06T00:00:00Z"
+    }
+  ]
+}
